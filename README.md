@@ -1,0 +1,2 @@
+# Vps
+mining
